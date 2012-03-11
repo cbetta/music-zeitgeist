@@ -1,0 +1,54 @@
+body {
+	padding:		0px 20px;
+}
+
+h2 {
+	color: #666 !important;  
+  font-family: "Tahoma", Verdana, Helvetica, sans-serif;
+}
+
+.navigation {
+	width:			500px;
+	text-align:	right;
+	min-height:	30px;
+}
+
+.navigation a {
+	color:			#666;
+	text-decoration:	none;
+	font-family: "Tahoma", Verdana, Helvetica, sans-serif;
+}
+
+.navigation a.previous {
+	float:			left;
+}
+
+.footer, .header {
+	font-family: "Tahoma", Verdana, Helvetica, sans-serif;
+	margin:			20px 0px;
+	color:			#666;
+	font-size:	0.8em;
+}
+
+.footer a, .header a {
+	color:			#666;
+}
+
+.header a {
+	text-decoration:		none;
+}
+
+th {
+	vertical-align:	top;
+}
+
+.description {
+	font-family: "Tahoma", Verdana, Helvetica, sans-serif;
+	color:			#666;
+	font-size:	1em;
+	width:			500px;
+}
+
+.description a {
+	color:			#666;
+}
